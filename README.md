@@ -1,6 +1,6 @@
 This website will be uploading write-ups for CTFs and it is all directed by lovehack3r.
 
-## Contents
+## Posts
 <a href="pwnable.kr_bof">pwnable.kr - bof</a><br>
 <a href="pwnablekr_flag">pwnable.kr - flag</a>
 
