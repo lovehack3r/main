@@ -1,7 +1,7 @@
 풀문제는 chall 이라는 문제입니다
 
 실행파일이 하나 주어지는데 이 실행파일을 실행시키면
-<a href="https://drive.google.com/drive/folders/1wEr6WOyw9eP4oXkfhgaIMyXIQGriEoi7">실행파일 다운로드<.a<
+<a href="https://drive.google.com/drive/folders/1wEr6WOyw9eP4oXkfhgaIMyXIQGriEoi7">실행파일 다운로드</a>
 ```
 root@kali:~/pwn/x# ./chall
 Helloooooo, do you like to build snowmen?
